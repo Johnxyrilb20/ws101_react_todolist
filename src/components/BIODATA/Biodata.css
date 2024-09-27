@@ -1,0 +1,49 @@
+* { padding: 0%; margin: 0%; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+#biodata {/*BIODATA*/
+    display: grid;
+    text-align: left;
+    color: rgb(10, 92, 78);
+    background: rgb(54, 201, 176);
+    max-width: 600px;
+    margin: auto;
+    font-size: 25px;
+    margin-top: 0px;
+    padding: 0px 30px 0px 30px;
+    border: 2px solid;
+    border-radius: 10px;
+    justify-items: start;
+}
+h1 {
+    background-color: rgb(15, 170, 162);
+    border: 5px solid rgb(10, 92, 78);
+    border-radius: 20px;
+    margin: 10px 0px 0px 0px;
+    padding: 0px;
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+    background-color: rgb(27, 152, 132);
+    border: 8px solid rgb(10, 92, 78);
+    border-style: double;
+    border-radius: 20px;
+    margin: 22px 0px -18px 0px;
+    padding: 10px;
+    font-size: 1.8rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+strong {
+    margin: -10px 0px 10px 0px;
+    padding: 0px 40px;
+    
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: -1em;
+    margin-inline-start: -0px;
+    margin-inline-end: -10px;
+    unicode-bidi: isolate;
+    text-decoration: underline;
+}
